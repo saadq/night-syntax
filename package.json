@@ -1,0 +1,18 @@
+{
+  "name": "night-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark, monochrome syntax theme",
+  "keywords": [
+    "monochrome",
+    "dark",
+    "black",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/saadq/night-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
